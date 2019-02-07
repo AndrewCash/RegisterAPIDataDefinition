@@ -1,5 +1,5 @@
 UPDATE product
 SET
-    lookupcode = thesnacc
+    lookupcode = 'thesnacc'
 WHERE
     lookupcode = 'lookupcode2';
